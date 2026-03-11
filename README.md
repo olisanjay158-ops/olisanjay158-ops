@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sanjay%20Oli&fontColor=ffffff&fontSize=60&desc=Cybersecurity%20Student%20|%20Python%20|%20Kali%20Linux%20|%20Networking&descSize=25&descAlignY=66) 
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:2c5364&text=Sanjay%20Oli&fontColor=ffffff&fontSize=60&desc=Cybersecurity%20Student%20%7C%20Python%20%7C%20Kali%20Linux%20%7C%20Networking&descSize=25&descAlignY=65)
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Security+Tools;Kali+Linux+Learner;Future+SOC+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Python+Security+Tools;Kali+Linux+Learner;Networking+Enthusiast;Future+SOC+Analyst" />
 </p> 
+
 # Hi 👋 I'm Sanjay Oli
 
 🔐 Cybersecurity Student  
