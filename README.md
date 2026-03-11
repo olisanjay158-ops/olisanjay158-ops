@@ -46,3 +46,18 @@ I am passionate about **Cybersecurity, Ethical Hacking and Network Security**.
 - Penetration Testing
 - SOC Operations
 - Threat Detection
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olisanjay158-ops&theme=tokyonight" />
+</p> 
+
+
+--- 
+
+## 📈 Contribution Graph
+
+![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olisanjay158-ops&theme=tokyo-night) 
