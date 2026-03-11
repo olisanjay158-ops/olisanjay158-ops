@@ -87,4 +87,4 @@ Software engineering project focused on structured system design and application
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/olisanjay158-ops/olisanjay158-ops/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://raw.githubusercontent.com/olisanjay158-ops/olisanjay158-ops/output/github-contribution-grid-snake.svg) 
