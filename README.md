@@ -22,13 +22,19 @@ I am passionate about **Cybersecurity, Ethical Hacking and Network Security**.
 
 ---
 
-## 🔐 Security Tools
+## 🛡 Cybersecurity Tools
 
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-- Kali Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,git,docker" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge"/>
+</p> 
 
 ---
 
