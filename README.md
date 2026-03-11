@@ -82,3 +82,9 @@ Software engineering project focused on structured system design and application
 ## 📈 Contribution Graph
 
 ![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olisanjay158-ops&theme=tokyo-night) 
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/olisanjay158-ops/olisanjay158-ops/blob/output/github-contribution-grid-snake.svg) 
