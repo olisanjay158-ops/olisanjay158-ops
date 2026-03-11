@@ -24,19 +24,40 @@ I am passionate about **Cybersecurity, Ethical Hacking and Network Security**.
 
 ---
 
-## 🛡 Cybersecurity Tools
+## 🛠 Security Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,bash,vscode" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-darkred?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-1E1E2E?style=for-the-badge"/>
 </p> 
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Nepal Election ML Prediction
+Machine learning project using Python to explore and predict Nepal election trends.
+
+### 🔹 Online Appointment Booking System
+Software engineering project focused on structured system design and application workflow.
+
+---
+
+## 🧠 Cybersecurity Lab Focus
+
+- Network scanning and enumeration
+- Python-based security scripting
+- Kali Linux practice environment
+- Web security basics
+- SOC and monitoring fundamentals
+- Hands-on cybersecurity learning 
 
 ---
 
